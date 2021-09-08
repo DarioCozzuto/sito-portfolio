@@ -10270,7 +10270,7 @@ section.resume-section .resume-section-content {
 	background: #fff;
 	-moz-transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
 	-o-transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
-	transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+	transition: all 0.1s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 .baseBlock:hover {
