@@ -10138,7 +10138,7 @@ h1 {
   #sideNav .navbar-brand .img-profile {
     max-width: 12rem;
     max-height: 12rem;
-    border: 0.2rem solid rgba(0, 0, 0, 0.2);
+    border: 0.6rem solid rgba(0, 0, 0, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
