@@ -10139,6 +10139,7 @@ h1 {
     max-width: 12rem;
     max-height: 12rem;
     border: 0.6rem solid rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
   }
   #sideNav .navbar-collapse {
     display: flex;
