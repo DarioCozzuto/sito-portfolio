@@ -10249,12 +10249,10 @@ section.resume-section .resume-section-content {
 }
 
 .baseBlock {
-	margin: 0px 0px 15px 0px;
 	padding: 0 0 7px 0px;
 	border-radius: 5px;
 	overflow: hidden;
 	min-height: 120px;
-	background: #fff;
 	-moz-transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
 	-o-transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
 	transition: all 0.1s cubic-bezier(0.165, 0.84, 0.44, 1);
