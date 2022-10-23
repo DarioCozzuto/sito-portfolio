@@ -10251,12 +10251,12 @@ section.resume-section .resume-section-content {
 }
 
 .baseBlock:hover {
-	-webkit-transform: translate(0, -2px);
-	-moz-transform: translate(0, -2px);
-	-ms-transform: translate(0, -2px);
-	-o-transform: translate(0, -2px);
-	transform: translate(0, -2px);
-	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	-webkit-transform: translate(0, -3px);
+	-moz-transform: translate(0, -3px);
+	-ms-transform: translate(0, -3px);
+	-o-transform: translate(0, -3px);
+	transform: translate(0px, -3px);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.09);
 }
 
 
