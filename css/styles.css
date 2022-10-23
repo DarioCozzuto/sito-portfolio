@@ -10120,6 +10120,7 @@ h1 {
     flex-direction: column;
     width: 17rem;
     height: 100vh;
+    border-right: 1px solid #aeaaaa;
   }
   #sideNav .navbar-brand {
     display: flex;
