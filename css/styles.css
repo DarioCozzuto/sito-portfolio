@@ -10112,6 +10112,9 @@ h1 {
 
 @media (min-width: 992px) {
   #sideNav {
+  padding-bottom: 275px !important;
+  }
+  #sideNav {
     text-align: center;
     position: fixed;
     top: 0;
