@@ -10353,4 +10353,8 @@ section.resume-section {
 .text-primary {
   color: #bd5d38 !important;
 }
+section.resume-section {
+  padding-top: 11rem;
+  padding-bottom: 12em;
+}
 }
