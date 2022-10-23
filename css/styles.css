@@ -10079,6 +10079,10 @@ body {
 }
 
 @media (min-width: 992px) {
+	
+.resume-section-content p {
+  width: 900px;
+}
   body {
     padding-top: 0;
     padding-left: 17rem;
