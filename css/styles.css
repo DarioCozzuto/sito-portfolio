@@ -10347,7 +10347,7 @@ a::-moz-focus-inner {
 .bg-primary {
   background-color: #ededed !important;
 }
-.navbar-toggler.collapsed {
+.navbar-toggler {
   background-color: #d5d5d5 !important;
   padding: 4px 15px 4px 15px;
 }
