@@ -10370,4 +10370,7 @@ body {
 section.resume-section {
   padding-top: 3rem;
 }
+.text-primary {
+  color: #b7b7b7 !important;
+}
 }
