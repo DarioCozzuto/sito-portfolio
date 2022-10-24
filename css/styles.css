@@ -10338,6 +10338,10 @@ a::-moz-focus-inner {
   color: #5694ac !important;
 }
 
+.gh5jf {
+  color: #5694ac;
+}
+
 @media (max-width: 984px) {
 .navbar-brand.js-scroll-trigger {
   display: none;
