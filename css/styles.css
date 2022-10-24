@@ -10346,6 +10346,9 @@ a::-moz-focus-inner {
 }
 
 @media (max-width: 984px) {
+#sideNav {
+  background-color: #343a40 !important;
+}
 .social-icon {
   display: none !important;
 }
