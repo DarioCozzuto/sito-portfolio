@@ -10346,6 +10346,9 @@ a::-moz-focus-inner {
 }
 
 @media (max-width: 984px) {
+.baseBlock:hover {
+  box-shadow: unset;
+}
 .navbar-brand.js-scroll-trigger {
   display: none;
 }
