@@ -10294,6 +10294,9 @@ section.resume-section .resume-section-content {
 
 
 @media (min-width: 992px) {
+  .social-icon {
+  display: none !important;
+  }
   #a-4 {
     width: 300px;
     height: 280px;
