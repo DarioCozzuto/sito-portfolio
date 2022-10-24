@@ -4292,7 +4292,7 @@ input[type=button].btn-block {
   color: rgba(255, 255, 255, 0.25);
 }
 .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
-  color: #727272;
+  color: #aaa;
 }
 .navbar-dark .navbar-toggler {
   color: rgba(255, 255, 255, 0.5);
@@ -6171,7 +6171,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #c7c5c4 !important;
+  background-color: #565656 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
