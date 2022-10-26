@@ -9869,7 +9869,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #824027 !important;
+  color: #a83816 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10250,7 +10250,7 @@ section.resume-section .resume-section-content {
 }
 
 .baseBlock:hover {
-	box-shadow: 0px 4px 0px #75a5b8;
+	box-shadow: 0px 4px 0px #217fd3;
 }
 
 
@@ -10338,11 +10338,11 @@ a::-moz-focus-inner {
 }
 
 .flex-shrink-0 > .text-primary {
-  color: #5694ac !important;
+  color: #217fd3 !important;
 }
 
 .gh5jf {
-  color: #5694ac;
+  color: #217fd3;
 }
 
 @media (max-width: 984px) {
